@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c99d28eb10d3bf3a519b8b86f3771931cc42d48e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/8bba5c998d151a96ffa663ec3b8dddaff6fbd791/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebd6246ece127f41a29b46cddc73b9fb7060d0e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bdd3866dea05c84d318459bdf47b2f25ef6dcd6d">
+        <dex dex="/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_201e3dc4f0b2f9f6ff0e1052b11985bf97ae46c1/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/done_check_mark.xml",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/res/drawable-anydpi-v21/done_check_mark.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_mail_white_24dp.xml",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/res/drawable-anydpi-v21/ic_mail_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_twitter_bird_white_24dp.xml",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/res/drawable-anydpi-v21/ic_twitter_bird_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_facebook_white_22dp.xml",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/res/drawable-anydpi-v21/ic_facebook_white_22dp.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_settings_phone_white_24dp.xml",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/res/drawable-anydpi-v21/ic_settings_phone_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_googleg_color_24dp.xml",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/res/drawable-anydpi-v21/ic_googleg_color_24dp.xml"
+    }
+]

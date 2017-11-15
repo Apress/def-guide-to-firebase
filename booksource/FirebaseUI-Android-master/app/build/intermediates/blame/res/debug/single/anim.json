@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

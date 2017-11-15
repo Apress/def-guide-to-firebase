@@ -1,0 +1,7 @@
+#Sat Jun 24 20:05:40 PDT 2017
+base.0=/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3dc85a308fabf879be6fb0d2ce0dfcf59b72ff60
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab3fbef7fd8443f7d5501c908239f52e9cb3621f/classes.dex
+base.1=/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab3fbef7fd8443f7d5501c908239f52e9cb3621f
+file.0=/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3dc85a308fabf879be6fb0d2ce0dfcf59b72ff60/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/storage/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 201,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.android/build-cache/991ec06c9b4d92807d7282ae33593dd2ead9dfb5/output/res/values-ka/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 201,
+                        "endOffset": 486
+                    }
+                }
+            }
+        ]
+    }
+]

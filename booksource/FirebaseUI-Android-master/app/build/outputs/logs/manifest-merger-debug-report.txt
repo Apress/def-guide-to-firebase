@@ -1,0 +1,547 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:5:5-34
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:7:5-66
+MERGED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:database:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/database/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:10:5-49:19
+MERGED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:15:5-77:19
+MERGED from [com.android.support:design:25.4.0] /Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:25.4.0] /Users/laurencemoroney/.android/build-cache/5a3a437485ac183e13f087ac7ef1a5f1fa549839/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.firebaseui:database:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/database/build/intermediates/bundles/default/AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/3e0de9235ecce9c26cb3c3d6d2b1f7c1d2c94fd9/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/811212d8d74a74dca93bd8a3c4e18694f35f2879/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/0ce056e5261f26f3a8379ce45c4c7b23c89576a1/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/laurencemoroney/.android/build-cache/1aa82b6f0be0de84e85e75c9839b2b0ff144f27f/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/725073dfe02b69ae5622394880025c40c2f7cc57/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:25.4.0] /Users/laurencemoroney/.android/build-cache/b6de39505ee5f12346696f6c92f185cccd592489/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/AndroidManifest.xml:27:5-33:19
+MERGED from [pub.devrel:easypermissions:0.4.2] /Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/laurencemoroney/.android/build-cache/d3866b71a5f5c80502649da61927f9485bd258f7/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/laurencemoroney/.android/build-cache/5a17ba7c0fb73de687b6e759a7a66dd3c6638868/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-core:11.0.1] /Users/laurencemoroney/.android/build-cache/6234d0ca18f6427cf048170131e062504056b3ed/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.1] /Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/laurencemoroney/.android/build-cache/f04a434e5be2d182f6c46d01d024ce1f58f30432/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/laurencemoroney/.android/build-cache/991ec06c9b4d92807d7282ae33593dd2ead9dfb5/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/laurencemoroney/.android/build-cache/379de678da8e406b11e22c79614f5e9e86d5d616/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/laurencemoroney/.android/build-cache/37846a86f8c5bc739f6fb6512311442bc36fc0b3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/laurencemoroney/.android/build-cache/f012a66362532dd3424c689471d9a20759315df6/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/laurencemoroney/.android/build-cache/38d5d0340d3eae924a52e179ccd456ab4f311847/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/laurencemoroney/.android/build-cache/709c96855813303c6d390788cf2312f2baa2d0d0/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/laurencemoroney/.android/build-cache/76970124baa62d381e5f98d7f947efbd6a17e101/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:28:5-57:19
+	android:label
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:17:9-36
+	android:fullBackupContent
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:18:9-48
+	android:allowBackup
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:11:9-41
+activity#com.firebase.uidemo.ChooserActivity
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:19:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:22:27-74
+meta-data#android.app.shortcuts
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:24:13-26:52
+	android:resource
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:26:17-50
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:25:17-53
+activity#com.firebase.uidemo.database.ChatActivity
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:30:9-32:48
+	android:label
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:32:13-46
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:31:13-50
+activity#com.firebase.uidemo.database.ChatIndexActivity
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:33:9-35:48
+	android:label
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:35:13-46
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:34:13-55
+activity#com.firebase.uidemo.auth.AuthUiActivity
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:38:9-40:51
+	android:label
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:39:13-48
+activity#com.firebase.uidemo.auth.SignedInActivity
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:41:9-43:51
+	android:label
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:42:13-50
+activity#com.firebase.uidemo.storage.ImageActivity
+ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:46:9-48:49
+	android:label
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:48:13-47
+	android:name
+		ADDED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml:47:13-50
+uses-sdk
+INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.4.0] /Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.4.0] /Users/laurencemoroney/.android/build-cache/5a3a437485ac183e13f087ac7ef1a5f1fa549839/output/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:database:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/database/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/3e0de9235ecce9c26cb3c3d6d2b1f7c1d2c94fd9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.firebaseui:storage:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/storage/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/811212d8d74a74dca93bd8a3c4e18694f35f2879/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] /Users/laurencemoroney/.android/build-cache/1a80f2e4e77fcdc35fafdf8b0222d74878dc4b09/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/0ce056e5261f26f3a8379ce45c4c7b23c89576a1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/laurencemoroney/.android/build-cache/1aa82b6f0be0de84e85e75c9839b2b0ff144f27f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.1] /Users/laurencemoroney/.android/build-cache/a9e714af516d36ff77cc734733e2b87d7709ef57/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.1] /Users/laurencemoroney/.android/build-cache/83868d780ea9ddf2851b7283ce0cce63cfc03537/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.1] /Users/laurencemoroney/.android/build-cache/b7e6710e34c8a3d13afa5b7be44b9f2d80f0315f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.1] /Users/laurencemoroney/.android/build-cache/aed67d6512dfef1915074dfc5d170228122a5239/output/AndroidManifest.xml:3:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/725073dfe02b69ae5622394880025c40c2f7cc57/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.4.0] /Users/laurencemoroney/.android/build-cache/b6de39505ee5f12346696f6c92f185cccd592489/output/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/AndroidManifest.xml:23:5-44
+MERGED from [pub.devrel:easypermissions:0.4.2] /Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/laurencemoroney/.android/build-cache/d3866b71a5f5c80502649da61927f9485bd258f7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/laurencemoroney/.android/build-cache/5a17ba7c0fb73de687b6e759a7a66dd3c6638868/output/AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] /Users/laurencemoroney/.android/build-cache/e583dbbae2efdc7b157e09a20a35c030e8729dfa/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.1] /Users/laurencemoroney/.android/build-cache/6234d0ca18f6427cf048170131e062504056b3ed/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.1] /Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/laurencemoroney/.android/build-cache/f04a434e5be2d182f6c46d01d024ce1f58f30432/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/laurencemoroney/.android/build-cache/991ec06c9b4d92807d7282ae33593dd2ead9dfb5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.4.0] /Users/laurencemoroney/.android/build-cache/379de678da8e406b11e22c79614f5e9e86d5d616/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/laurencemoroney/.android/build-cache/37846a86f8c5bc739f6fb6512311442bc36fc0b3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/laurencemoroney/.android/build-cache/f012a66362532dd3424c689471d9a20759315df6/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/laurencemoroney/.android/build-cache/38d5d0340d3eae924a52e179ccd456ab4f311847/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/laurencemoroney/.android/build-cache/709c96855813303c6d390788cf2312f2baa2d0d0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] /Users/laurencemoroney/.android/build-cache/76970124baa62d381e5f98d7f947efbd6a17e101/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] /Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:16:9-18:69
+MERGED from [com.firebaseui:database:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/database/build/intermediates/bundles/default/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/laurencemoroney/.android/build-cache/991ec06c9b4d92807d7282ae33593dd2ead9dfb5/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:17:13-58
+meta-data#io.fabric.ApiKey
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:20:13-44
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:22:9-24:63
+	android:value
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:24:13-60
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:23:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:26:13-68
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:29:9-33:61
+	android:label
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:32:13-29
+	android:exported
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:33:13-58
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:30:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:34:9-37:71
+	android:label
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:37:13-68
+	android:exported
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:35:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:38:9-41:55
+	android:label
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:41:13-52
+	android:exported
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:39:13-79
+activity#com.firebase.ui.auth.ui.phone.PhoneVerificationActivity
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:42:9-46:64
+	android:label
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:45:13-62
+	android:exported
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:44:13-37
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:46:13-61
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:43:13-83
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:47:9-50:69
+	android:label
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:50:13-66
+	android:exported
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:48:13-84
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:51:9-54:74
+	android:label
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:54:13-71
+	android:exported
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:52:13-89
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:55:9-58:61
+	android:label
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:58:13-58
+	android:exported
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:56:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:59:9-63:48
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:62:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:63:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:61:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:60:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:64:9-76:20
+	android:exported
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:66:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:67:13-45
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:65:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:68:13-75:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:69:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:71:17-76
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:71:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:72:17-78
+	android:name
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:72:27-75
+data
+ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:74:17-81
+	android:scheme
+		ADDED from [com.firebaseui:auth:2.0.1] /Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/AndroidManifest.xml:74:23-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] /Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:25.4.0] /Users/laurencemoroney/.android/build-cache/5a3a437485ac183e13f087ac7ef1a5f1fa549839/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/3e0de9235ecce9c26cb3c3d6d2b1f7c1d2c94fd9/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/811212d8d74a74dca93bd8a3c4e18694f35f2879/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/725073dfe02b69ae5622394880025c40c2f7cc57/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:25.4.0] /Users/laurencemoroney/.android/build-cache/b6de39505ee5f12346696f6c92f185cccd592489/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/laurencemoroney/.android/build-cache/d3866b71a5f5c80502649da61927f9485bd258f7/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/laurencemoroney/.android/build-cache/5a17ba7c0fb73de687b6e759a7a66dd3c6638868/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/laurencemoroney/.android/build-cache/379de678da8e406b11e22c79614f5e9e86d5d616/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/laurencemoroney/.android/build-cache/37846a86f8c5bc739f6fb6512311442bc36fc0b3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/laurencemoroney/.android/build-cache/f012a66362532dd3424c689471d9a20759315df6/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/laurencemoroney/.android/build-cache/38d5d0340d3eae924a52e179ccd456ab4f311847/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/laurencemoroney/.android/build-cache/709c96855813303c6d390788cf2312f2baa2d0d0/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/laurencemoroney/.android/build-cache/76970124baa62d381e5f98d7f947efbd6a17e101/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] /Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] /Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/laurencemoroney/.android/build-cache/1aa82b6f0be0de84e85e75c9839b2b0ff144f27f/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/laurencemoroney/.android/build-cache/1aa82b6f0be0de84e85e75c9839b2b0ff144f27f/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/laurencemoroney/.android/build-cache/1aa82b6f0be0de84e85e75c9839b2b0ff144f27f/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/laurencemoroney/.android/build-cache/1aa82b6f0be0de84e85e75c9839b2b0ff144f27f/output/AndroidManifest.xml:19:19-85
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/AndroidManifest.xml:45:13-70
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/AndroidManifest.xml:29:13-79
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.4.2] /Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.4.2] /Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.4.2] /Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.4.2] /Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.4.2] /Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/AndroidManifest.xml:13:13-86
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/AndroidManifest.xml:6:79-143
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:26:22-78
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:29:9-32:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:31:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:32:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:33:9-35:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:34:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:37:9-49:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:39:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:41:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:40:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:38:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:50:9-56:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:54:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:53:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:56:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/AndroidManifest.xml:51:13-93

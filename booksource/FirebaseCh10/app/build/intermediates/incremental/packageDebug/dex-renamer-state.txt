@@ -1,0 +1,7 @@
+#Tue Aug 15 12:02:39 PDT 2017
+base.0=/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29174f7ebf061e55e925d4ff24dd602079c149d6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a7aeb4a92924883e962c2a80f2900747ca1ffb98/classes.dex
+base.1=/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a7aeb4a92924883e962c2a80f2900747ca1ffb98
+file.0=/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29174f7ebf061e55e925d4ff24dd602079c149d6/classes.dex

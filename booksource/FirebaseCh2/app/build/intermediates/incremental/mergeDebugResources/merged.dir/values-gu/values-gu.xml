@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="tw__time_hours">
+        <item quantity="one">1h</item>
+        <item quantity="other">%dh</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="one">1m</item>
+        <item quantity="other">%dm</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="one">1s</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <string name="com_facebook_device_auth_instructions">તમારા સ્માર્ટફોન અથવા કમ્પ્યુટર પર &lt;b>facebook.com/device&lt;/b> ની મુલાકાત લો અને આ કોડ દાખલ કરો:</string>
+    <string name="com_facebook_image_download_unknown_error">છબી ડાઉનલોડ કરતી વખતે અનપેક્ષિત ભૂલ આવી.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView લૉગિન માટે ઇન્ટરનેટ પરવાગની આવશ્યક છે</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest ભૂલ</string>
+    <string name="com_facebook_like_button_liked">પસંદ કર્યું</string>
+    <string name="com_facebook_like_button_not_liked">પસંદ કરો</string>
+    <string name="com_facebook_loading">લોડ કરી રહ્યાં છે…</string>
+    <string name="com_facebook_loginview_cancel_action">રદ કરો</string>
+    <string name="com_facebook_loginview_log_in_button">લૉગ ઇન કરો</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Facebook સાથે ચાલુ રાખો</string>
+    <string name="com_facebook_loginview_log_in_button_long">ફેસબુક સાથે લૉગ ઇન કરો</string>
+    <string name="com_facebook_loginview_log_out_action">લૉગ આઉટ કરો</string>
+    <string name="com_facebook_loginview_log_out_button">લૉગ આઉટ કરો</string>
+    <string name="com_facebook_loginview_logged_in_as">આ તરીકે લૉગ ઇન થયાં: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">ફેસબુકનો ઉપયોગ કરીને લૉગ ઇન કરો</string>
+    <string name="com_facebook_send_button_text">મોકલો</string>
+    <string name="com_facebook_share_button_text">શેર કરો</string>
+    <string name="com_facebook_tooltip_default">તમે નિયંત્રણ કરો છો - તમે એપ્લિકેશન્સ સાથે કઈ માહિતી શેર કરવા માંગો છો તે પસંદ કરો.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"સક્ષમ કરો"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"તમે Google Play સેવાઓ સક્ષમ કરશો નહીં ત્યાં સુધી <ns1:g id="APP_NAME">%1$s</ns1:g> કાર્ય કરશે નહીં."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play સેવાઓ સક્ષમ કરો"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ઇન્સ્ટૉલ કરો"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play સેવાઓ વગર ચાલશે નહીં, જે તમારા ઉપકરણમાંથી ખૂટે છે."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play સેવાઓ મેળવો"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play સેવાઓની ભૂલ"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ને Google Play સેવાઓમાં મુશ્કેલી આવી રહી છે. કૃપા કરીને ફરી પ્રયાસ કરો."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play સેવાઓ વગર ચાલશે નહીં, જે તમારા ઉપકરણ દ્વારા સમર્થિત નથી."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"અપડેટ કરો"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"તમે Google Play સેવાઓ અપડેટ કરશો નહીં ત્યાં સુધી <ns1:g id="APP_NAME">%1$s</ns1:g> શરૂ થશે નહીં."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play સેવાઓ અપડેટ કરો"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play સેવાઓ વગર શરૂ થશે નહીં, જે વર્તમાનમાં અપડેટ થઈ રહી છે."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play સેવાઓના નવા સંસ્કરણની જરૂર છે. તે ટૂંક સમયમાં પોતાને અપડેટ કરશે."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"ફોનમાં ખોલો"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"સાઇન ઇન કરો"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google માં સાઇન ઇન કરો"</string>
+    <string name="messenger_send_button_text">મોકલો</string>
+    <string name="tw__allow_btn_txt">પરવાનગી આપે છે</string>
+    <string name="tw__composer_hint">શું ચાલી રહ્યું છ?</string>
+    <string name="tw__cta_text">Vine માં ખોલો</string>
+    <string name="tw__install">ઇન્સ્ટૉલ કરો</string>
+    <string name="tw__like_tweet">ટ્વીટ લાઈક કરો</string>
+    <string name="tw__liked_tweet">લાઈક પૂર્વવત કરો</string>
+    <string name="tw__loading_tweet">ટ્વીટ લોડ થઈ રહી છે</string>
+    <string name="tw__login_btn_txt">Twitter સાથે લોગીન કરો</string>
+    <string name="tw__max_tweet_chars">140</string>
+    <string name="tw__not_now_btn_txt">હમણાં નહીં</string>
+    <string name="tw__pause">અટકાવો</string>
+    <string name="tw__play">પ્લે કરો</string>
+    <string name="tw__post_tweet">ટ્વીટ કરો</string>
+    <string name="tw__replay">પુન પ્લે કરો</string>
+    <string name="tw__retweeted_by_format">%1$s દ્વારા પુનટ્વીટ કરાઈ</string>
+    <string name="tw__share_content_format">\@%1$s\ની ટ્વીટ તપાસો: https://twitter.com/%1$s/status/%2$s</string>
+    <string name="tw__share_email_desc">%1$sને તમારા Twitter એકાઉન્ટ \@%2$s સાથે સંકળાયેલા ઈમેલ એડ્રેસનો ઉપયોગ કરવાની મંજૂરી આપો જેથી %1$s તેનો ઉપયોગ તેની ગોપનીયતા નીતિ પ્રમાણે કરી શકે. ઉદા તરીકે, %1$s તે એડ્રેસ પર તમને અપડેટ્સ અને અન્ય માહિતી મોકલી શકે.</string>
+    <string name="tw__share_email_title">તમારું ઈમેલ એડ્રેસ શેર કરો</string>
+    <string name="tw__share_subject_format">%1$s (\@%2$s) તરફથી ટ્વીટ</string>
+    <string name="tw__share_tweet">ટ્વીટ શેર કરો</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="tw__tweet_media">ટ્વીટ મીડિયા</string>
+</resources>

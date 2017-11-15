@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseCh2</string>
+    <string name="title_activity_signed_in">SignedInActivity</string>
+</resources>

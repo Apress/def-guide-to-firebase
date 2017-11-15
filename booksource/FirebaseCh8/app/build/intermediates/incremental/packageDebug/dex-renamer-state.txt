@@ -1,0 +1,7 @@
+#Tue Jul 18 11:51:38 PDT 2017
+base.0=/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7bf5a9d1f6a1423b4f2d50739ee52167c49c075a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ddaa318e67bd0a36980a1dda910b2f74c9d8bb9/classes.dex
+base.1=/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ddaa318e67bd0a36980a1dda910b2f74c9d8bb9
+file.0=/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7bf5a9d1f6a1423b4f2d50739ee52167c49c075a/classes.dex

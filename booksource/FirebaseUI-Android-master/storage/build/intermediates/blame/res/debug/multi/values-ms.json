@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/storage/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 204,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.android/build-cache/991ec06c9b4d92807d7282ae33593dd2ead9dfb5/output/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 204,
+                        "endOffset": 489
+                    }
+                }
+            }
+        ]
+    }
+]

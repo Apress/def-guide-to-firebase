@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-ldpi-v4/done_check_mark.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/generated/res/pngs/release/drawable-ldpi/done_check_mark.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_twitter_bird_white_24dp.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/generated/res/pngs/release/drawable-ldpi/ic_twitter_bird_white_24dp.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_settings_phone_white_24dp.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/generated/res/pngs/release/drawable-ldpi/ic_settings_phone_white_24dp.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_mail_white_24dp.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/generated/res/pngs/release/drawable-ldpi/ic_mail_white_24dp.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_facebook_white_22dp.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/generated/res/pngs/release/drawable-ldpi/ic_facebook_white_22dp.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_googleg_color_24dp.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/generated/res/pngs/release/drawable-ldpi/ic_googleg_color_24dp.png"
+    }
+]

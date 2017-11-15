@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/database/src/main/assets"/><source path="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/database/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/database/src/release/assets"/></dataSet></merger>

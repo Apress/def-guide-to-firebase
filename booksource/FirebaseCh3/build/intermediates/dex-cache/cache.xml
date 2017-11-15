@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/FirebaseCh3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1f9a800e2a2a28823a83eca6d3bf44b533e7d537">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseCh3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9f5c877a551ee609c34e9ad38c058a0dcd317fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/FirebaseCh3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseCh3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a90e0cc77a74b3a7b863d8c99069d5b0e1b6465/classes.dex" />
+    </item>
+
+</items>

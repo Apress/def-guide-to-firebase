@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/laurencemoroney/Desktop/Chapter9/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 204,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/1683f5563675a2794a8c516f3d5f4dd8/res/values-kn/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 204,
+                        "endOffset": 489
+                    }
+                }
+            }
+        ]
+    }
+]

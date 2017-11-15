@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/layout_activity_deep_link.xml.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/layout/activity_deep_link.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/4dfece93ae051e4442a4877a3c7cbd9b/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    }
+]

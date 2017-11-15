@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/welcome_back_password_prompt_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/welcome_back_idp_prompt_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__player_activity.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/layout/tw__player_activity.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__activity_composer.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d2ef3ab2e3f1887344960459ef653b5dbb903c17/output/res/layout/tw__activity_composer.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__action_bar.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/layout/tw__action_bar.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__tweet_compact.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/layout/tw__tweet_compact.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/include_auth_method_picker_logo.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/include_auth_method_picker_logo.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__app_card.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d2ef3ab2e3f1887344960459ef653b5dbb903c17/output/res/layout/tw__app_card.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/idp_button_twitter.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/idp_button_twitter.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/idp_button_facebook.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/idp_button_facebook.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/register_email_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/register_email_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__video_control.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/layout/tw__video_control.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__activity_share_email.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/12c46fc7fd7e2ff2f173cdf4dc270d9fa42ba9b1/output/res/layout/tw__activity_share_email.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/forgot_password_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/forgot_password_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__tweet.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/layout/tw__tweet.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/check_email_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/check_email_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/idp_button_google.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/idp_button_google.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__media_badge.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/layout/tw__media_badge.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/activity_register_email.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/activity_register_email.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/activity_signed_in.xml",
+        "source": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/src/main/res/layout/activity_signed_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__gallery_activity.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/layout/tw__gallery_activity.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/content_signed_in.xml",
+        "source": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/src/main/res/layout/content_signed_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/ab9660885bb2a09aeb21b3185b583a816ed8c3b7/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__activity_oauth.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/12c46fc7fd7e2ff2f173cdf4dc270d9fa42ba9b1/output/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__tweet_quote.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/layout/tw__tweet_quote.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/tw__composer_view.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d2ef3ab2e3f1887344960459ef653b5dbb903c17/output/res/layout/tw__composer_view.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/auth_method_picker_layout.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/layout/auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/layout/design_menu_item_action_area.xml"
+    }
+]

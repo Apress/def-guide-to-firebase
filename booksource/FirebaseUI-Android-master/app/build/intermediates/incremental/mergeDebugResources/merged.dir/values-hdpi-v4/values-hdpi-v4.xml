@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tw__login_btn_drawable_padding">5dp</dimen>
+    <dimen name="tw__login_btn_height">40dp</dimen>
+    <dimen name="tw__login_btn_left_padding">10dp</dimen>
+    <dimen name="tw__login_btn_right_padding">15dp</dimen>
+    <dimen name="tw__login_btn_text_size">16sp</dimen>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+          <item name="barLength">18.66dp</item>
+          <item name="gapBetweenBars">3.33dp</item>
+          <item name="drawableSize">24dp</item>
+     </style>
+</resources>

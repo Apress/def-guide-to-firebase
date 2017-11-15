@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="tw__time_hours">
+        <item quantity="one">1 گھنٹہ</item>
+        <item quantity="other">%d گھنٹے</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="one">1منٹ</item>
+        <item quantity="other">%dمنٹ</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="one">پہلا</item>
+        <item quantity="other">%dسیکنڈ</item>
+    </plurals>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"فعال کریں"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے، <ns1:g id="APP_NAME">%1$s</ns1:g> کام نہیں کرے گی۔"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏Google Play سروسز فعال کریں"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"انسٹال کریں"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے آلہ سے غائب ہیں۔"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏Google Play سروسز حاصل کریں"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏Google Play سروسز کی خرابی"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play سروسز کے بغیر نہیں چلے گی، جن کی آپ کا آلہ معاونت نہیں کرتا۔"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"اپ ڈیٹ کریں"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏جب تک آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں <ns1:g id="APP_NAME">%1$s</ns1:g> تب تک نہیں چلے گی۔"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏Google Play سروسز اپ ڈیٹ کریں"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play سروسز کے بغیر نہیں چلے گی، جو فی الحال اپ ڈیٹ ہو رہی ہیں۔"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏Google Play سروسز کے نئے ورژن کی ضرورت ہے۔ یہ تھوڑی دیر میں خود ہی اپنے آپ کو اپ ڈیٹ کر لے گا۔"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فون پر کھولیں"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"سائن ان کریں"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏Google کے ساتھ سائن ان کریں"</string>
+    <string name="tw__allow_btn_txt">اجازت دیں</string>
+    <string name="tw__composer_hint">کیا ہو رہا ہے؟</string>
+    <string name="tw__cta_text">Vine میں کھولیں</string>
+    <string name="tw__install">انسٹال کریں</string>
+    <string name="tw__like_tweet">ٹویٹ پسند کریں</string>
+    <string name="tw__liked_tweet">پسند کو منسوخ کریں</string>
+    <string name="tw__loading_tweet">ٹویٹ لوڈ ہو رہی ہے</string>
+    <string name="tw__login_btn_txt">ٹوئٹر سے لاگ ان کریں</string>
+    <string name="tw__max_tweet_chars">140</string>
+    <string name="tw__not_now_btn_txt">ابھی نہیں</string>
+    <string name="tw__pause">روکیں</string>
+    <string name="tw__play">چلائیں</string>
+    <string name="tw__post_tweet">ٹویٹ</string>
+    <string name="tw__relative_date_format_long">d/M/y</string>
+    <string name="tw__relative_date_format_short">d MMM</string>
+    <string name="tw__replay">دوبارہ چلائیں</string>
+    <string name="tw__retweeted_by_format">%1$s کی ریٹویٹ کردہ</string>
+    <string name="tw__share_content_format">‎\@%1$s کی ٹویٹ دیکھیں: https://twitter.com/%1$s/status/%2$s</string>
+    <string name="tw__share_email_desc">%1$s کو اپنے ٹوئٹر اکاؤنٹ ‎\@%2$s کے ساتھ منسلک شدہ ای میل ایڈریس تک رسائی حاصل کرنے کی اجازت دیں تاکہ %1$s اسے اس کی پرائیویسی پالیسی کے مطابق استعمال کر سکے۔ مثال کے طور پر، %1$s اس ایڈریس پر آپ کو اپ ڈیٹس اور دیگر معلومات بھیج سکتے ہیں۔</string>
+    <string name="tw__share_email_title">اپنا ای میل ایڈریس شیئر کریں</string>
+    <string name="tw__share_subject_format">%1$s (‎\@%2$s) کی ٹویٹ</string>
+    <string name="tw__share_tweet">ٹویٹ شیئر کریں</string>
+    <string name="tw__tweet_content_description">%1$s۔ %2$s۔ %3$s۔</string>
+    <string name="tw__tweet_media">میڈیا ٹویٹ کریں</string>
+</resources>

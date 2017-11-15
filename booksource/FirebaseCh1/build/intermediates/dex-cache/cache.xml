@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/9a77f6dc7290d8102047173556803ec2f4b76c87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae2c479ac009d0bbf1214c6224f581d5c3fbee30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/cd2a54c592ea6a66db79171d8acc7239dfef02d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_082d02c43c1896cfaeb1c927232a5b9a79481906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/9ae6bf278a433804ae26b38829e6da7fe1c2c5af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cecded196bf8347a3b8fa18c6f60da04a4c0ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_11c701840f3e6acf84a4dc7eddd855b5c8800474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/59aacd6b1e0797da0157a80743442d3bc4f6e0de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8620792927303d6b2f292b2c971a662e950f901a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/077e8c87b582628eb3cf1886f442825284e824d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d40da16c5ce518341beec5168ddb5d422848dd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/9a238ad21cbb9ba8ad5f02e945c4428addead3fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec6e40b897a8c7ddccc3e191fecaafed26fb24de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfecc75ab74d01e3d86426ca46869fe73a369217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/004a005659d56536faadac5beb732a4bf475f2c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75eb7171175adcc066968c48fadb72330fedfebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e3da5033968dcec9839c3541d0979316bb02e62b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_3df7a276528710257894ac3a85719573ee5630bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/2ee5b9b049b9e5f0c55990338fdc20bbd88cf5e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b849c81520b59fc5663f7a07bc7420d05eb657cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/ec058c07b28e1f19ffc1325c1b7c9e5c83abc7ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7375e81063367bd3aaa1cdb507227aacff29eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/6b149e805065094bd427164b3e1e95086213d532/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_415100533082eb5f52a380d4809f8d120a43cd9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/8985d68b52cdff7eff413c56241a7f8af4b2e773/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49176ec8897d0ae9b1c8fa2d215aded9512b9baf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/9dc791c979ae7b8cdd5d5857f0155509d047fd65/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08871ffa643a9255c03fa2c845e37ebb70cc5fc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/d68eddbac9158d2046f0d04b029094f1d739c1f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdf684785031c723bc28fa558767d5e6102d9b3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/4eab9452a7c310660ff5118653edf2204786e4e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bd2f3319ca237ad1f8858633eeaa0bf0e32627a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de3ed6cf340b943e08895e1b8495ca16dcddbcb1">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08f495ef45510171cd4b1e5f5f0e3f7a22b97837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/281eb24a8f298b883a71f4dbad1b4a8c0721db82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78bf8e626e1a62d025b9ea3d21b9e0716473e454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/fbd2bb4f4fd172c2bf7544df63d21e399921a8d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ece651cb83ad14d1a47dd240e3b3c9503965af2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/76778dfe337e698e38d475a40c32e85777989838/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb9b6c9b3e28e2422f02b8c660d4fecc9f9541b4/classes.dex" />
+    </item>
+
+</items>

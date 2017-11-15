@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9009847989d71afe502e61c69c85df75de7c80a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/aed67d6512dfef1915074dfc5d170228122a5239/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3013ffee567202ddab82286ac45b28fcb1e7926a">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d228c86191ac30de1b9e5f54f210d5e0f16c3572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/f012a66362532dd3424c689471d9a20759315df6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22fafbdf8eea2c84e3e3d8fd2ac429f638ee78b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/5a17ba7c0fb73de687b6e759a7a66dd3c6638868/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc6c719d418404c765ecaa331b2622b52741eaed/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/okhttp-3.4.2_8e64a7538fd74f01d883e511e2b34753b7ef243f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0e1a90694146b388aaf6d5a0c6619feae8c3164/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/e583dbbae2efdc7b157e09a20a35c030e8729dfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_ec512ffba71b2e0420c1f1590c35b46c8c41cb86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/1a80f2e4e77fcdc35fafdf8b0222d74878dc4b09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_e0f37d1c25082e841c7241fdb1602e6f8e36769c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/storage/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_5ea8e24badb811ce05d921d7f0776baabd8517c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/5a3a437485ac183e13f087ac7ef1a5f1fa549839/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_554ca3985915530f8a5e2fdce2ba68b144227fa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="016c95be4c7edcdca6c0ac89a568d58721042298">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_cce1a4a00f026b7bdc6752d2ff92108884ff24f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_cdc82c895fdef26610e6bbdd0465d67174b50dc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_d66569a3999037d50283608a14085f0823106321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/38d5d0340d3eae924a52e179ccd456ab4f311847/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_faeb7f2a0ba3346d20dc2947708af143ef85bf3f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57008ecfebfb354ffd7ccdb5c4afe8a30726d07f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-analyzer-1.5_ec9db54260af18e26aff3447a672ccf45f2c7172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/5a3a437485ac183e13f087ac7ef1a5f1fa549839/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_554ca3985915530f8a5e2fdce2ba68b144227fa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-watcher-1.5_d65256c3edd970fcb5d8a92b09427c50c80c9723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/991ec06c9b4d92807d7282ae33593dd2ead9dfb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e091ee7c1b88884abfc944af2df9c7ffa1ef77d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/379de678da8e406b11e22c79614f5e9e86d5d616/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_824382c9e7b76c77021fa7dd0c5f60f2c9820390/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/811212d8d74a74dca93bd8a3c4e18694f35f2879/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="032c65a3b537f89d5510a7cb18a0404c7f65c816">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_d5cd532556d3e8fb8eb7902d0273c62405cbe86a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/0ce056e5261f26f3a8379ce45c4c7b23c89576a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87abb9eda1dfc94a9dc022916f8c8d22c8ccfe1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/709c96855813303c6d390788cf2312f2baa2d0d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_467563d01b48281068958e6472c4c925c61b8006/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/37846a86f8c5bc739f6fb6512311442bc36fc0b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_4c835e06da69bb01a2d73cf7a495a525fc3380c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_0ed8b73064bae2a072329fc162f43c9f507e80bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_f55b93db36ae1b2b8033f472a8e97527032c8a93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/glide-3.7.0_d840758cdc1bebb81e11a165e4df56966061bbd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_ee2bd88eb2772db756c04acb6124ec8107f114ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/76970124baa62d381e5f98d7f947efbd6a17e101/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51bf4787007929eb6b9da44b1df4eafe9de54d8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_571c634680fe4d20b142d6b0fa6e350e0e273ced/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/f012a66362532dd3424c689471d9a20759315df6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_22fafbdf8eea2c84e3e3d8fd2ac429f638ee78b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/e583dbbae2efdc7b157e09a20a35c030e8729dfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec512ffba71b2e0420c1f1590c35b46c8c41cb86/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/725073dfe02b69ae5622394880025c40c2f7cc57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_1478c2523945fd4dff2309e9d3479d64b4f374d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/d3866b71a5f5c80502649da61927f9485bd258f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_31a1f5449228a1c4e274fc3363d999ea8402b0a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/8d467adadae52ae30948ccb312478c9fddf95ffd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d66569a3999037d50283608a14085f0823106321/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="684b132d394d746b6a5eeddb384aadd775ea5bdc">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_579afe376f4cd52c2b6eff75f0cf8196808146b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/b7e6710e34c8a3d13afa5b7be44b9f2d80f0315f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d94940ddde71cc57402c78b7d8c335d61958f486">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_cb209648b7acd8fc4d1357500bcfd33f973744c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/b6de39505ee5f12346696f6c92f185cccd592489/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6e2b588eb35ac6b34dc7a007a35bbec3cccda4d">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_297bddfb7295674e7e091150ec22c6d24de86636/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_4975f8cc519ae9aedc9f7019f5db7521fb18ca26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_f6e6c32c02790df20abc4d074d92a1b3dbeed4e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.5_ec9db54260af18e26aff3447a672ccf45f2c7172.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/38d5d0340d3eae924a52e179ccd456ab4f311847/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_faeb7f2a0ba3346d20dc2947708af143ef85bf3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_57008ecfebfb354ffd7ccdb5c4afe8a30726d07f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/811212d8d74a74dca93bd8a3c4e18694f35f2879/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="032c65a3b537f89d5510a7cb18a0404c7f65c816">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5cd532556d3e8fb8eb7902d0273c62405cbe86a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_56a08cd34f5cdee9bac6be7c3f74901449aaab08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5_d65256c3edd970fcb5d8a92b09427c50c80c9723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_0ed8b73064bae2a072329fc162f43c9f507e80bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/1511dcc5d3f5c334a7fb4394402dc36d0e970531/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee2bd88eb2772db756c04acb6124ec8107f114ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_80d6376a0fd0c9f4f84ee8b75037700ee06773d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/991ec06c9b4d92807d7282ae33593dd2ead9dfb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_5e091ee7c1b88884abfc944af2df9c7ffa1ef77d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/33d3aaccee25277047e0fe11f44557f136085eda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_571c634680fe4d20b142d6b0fa6e350e0e273ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/709c96855813303c6d390788cf2312f2baa2d0d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_467563d01b48281068958e6472c4c925c61b8006.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/83868d780ea9ddf2851b7283ce0cce63cfc03537/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6faf4eda52985545d2f5a34ccc65a481f36a02a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/b7e6710e34c8a3d13afa5b7be44b9f2d80f0315f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d94940ddde71cc57402c78b7d8c335d61958f486">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb209648b7acd8fc4d1357500bcfd33f973744c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/725073dfe02b69ae5622394880025c40c2f7cc57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1478c2523945fd4dff2309e9d3479d64b4f374d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/gson-2.7_580260aa9cfd84c483ebb1785ac824883ce28c58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_c051e3708706d523c10dcb13ae04e8b4d69b4134.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/d3866b71a5f5c80502649da61927f9485bd258f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31a1f5449228a1c4e274fc3363d999ea8402b0a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/3e0de9235ecce9c26cb3c3d6d2b1f7c1d2c94fd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce605e965317eaa83956a176a970a83e675b0343/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3787f2ad7251c30bbaca99313f8edaba90f7a8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/haha-2.0.3_f05c6b71048f1ccece122de457a0b06c1c12abff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_f6e6c32c02790df20abc4d074d92a1b3dbeed4e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_4975f8cc519ae9aedc9f7019f5db7521fb18ca26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/f04a434e5be2d182f6c46d01d024ce1f58f30432/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_c4c50767f67b9cda28a28da179002c6dad8e9ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/b6de39505ee5f12346696f6c92f185cccd592489/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6e2b588eb35ac6b34dc7a007a35bbec3cccda4d">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_297bddfb7295674e7e091150ec22c6d24de86636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/1aa82b6f0be0de84e85e75c9839b2b0ff144f27f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_308202d2ceae880fa820975f59193618055d2614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/okio-1.9.0_80d6376a0fd0c9f4f84ee8b75037700ee06773d7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/a9e714af516d36ff77cc734733e2b87d7709ef57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c83f68a636cb345ca1761c625c955d2a4e892b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7bb5d9ca6b794b7db60e008a796fa4ef0108e16">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3dc85a308fabf879be6fb0d2ce0dfcf59b72ff60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62f72610a751ff4f0f4b0b5f3bb30cfe278a2dc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c37bf24d298101c1277b133920da64b7d4233bf">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b90d8f3099b9b3d56c8e01000a0b58d3227d785/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/83868d780ea9ddf2851b7283ce0cce63cfc03537/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_6faf4eda52985545d2f5a34ccc65a481f36a02a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/ffeb91e16e332248b4d33e3914b458c8acdc2f8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_e0e1a90694146b388aaf6d5a0c6619feae8c3164.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_8e64a7538fd74f01d883e511e2b34753b7ef243f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_62f72610a751ff4f0f4b0b5f3bb30cfe278a2dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/aed67d6512dfef1915074dfc5d170228122a5239/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3013ffee567202ddab82286ac45b28fcb1e7926a">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_d228c86191ac30de1b9e5f54f210d5e0f16c3572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/5a17ba7c0fb73de687b6e759a7a66dd3c6638868/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_cc6c719d418404c765ecaa331b2622b52741eaed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_d840758cdc1bebb81e11a165e4df56966061bbd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_580260aa9cfd84c483ebb1785ac824883ce28c58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c051e3708706d523c10dcb13ae04e8b4d69b4134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/1a80f2e4e77fcdc35fafdf8b0222d74878dc4b09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0f37d1c25082e841c7241fdb1602e6f8e36769c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/a21e30d24e2669995d15ca111745e89463acd244/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_d3787f2ad7251c30bbaca99313f8edaba90f7a8a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/haha-2.0.3_f05c6b71048f1ccece122de457a0b06c1c12abff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_cdc82c895fdef26610e6bbdd0465d67174b50dc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/14cc279341e62caaacba9339055794c500e2d4a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="684b132d394d746b6a5eeddb384aadd775ea5bdc">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_579afe376f4cd52c2b6eff75f0cf8196808146b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/database/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75778f8e868e149cc6b0c0dce1f93a97b55db75d">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_74c0e3041dc1aeeebfd81127da6448c45bce3639.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/1aa82b6f0be0de84e85e75c9839b2b0ff144f27f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_308202d2ceae880fa820975f59193618055d2614/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/3e0de9235ecce9c26cb3c3d6d2b1f7c1d2c94fd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_ce605e965317eaa83956a176a970a83e675b0343.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab3fbef7fd8443f7d5501c908239f52e9cb3621f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/0ce056e5261f26f3a8379ce45c4c7b23c89576a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_87abb9eda1dfc94a9dc022916f8c8d22c8ccfe1c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/edb0bd7683ebe1a338e908f74c44c8475ee33f39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f55b93db36ae1b2b8033f472a8e97527032c8a93/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/41e0cd622f3631f6364dcd00d551beea83617e79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c37bf24d298101c1277b133920da64b7d4233bf">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_6b90d8f3099b9b3d56c8e01000a0b58d3227d785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/379de678da8e406b11e22c79614f5e9e86d5d616/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_824382c9e7b76c77021fa7dd0c5f60f2c9820390.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/37846a86f8c5bc739f6fb6512311442bc36fc0b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c835e06da69bb01a2d73cf7a495a525fc3380c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/f04a434e5be2d182f6c46d01d024ce1f58f30432/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4c50767f67b9cda28a28da179002c6dad8e9ae1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/76970124baa62d381e5f98d7f947efbd6a17e101/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_51bf4787007929eb6b9da44b1df4eafe9de54d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurencemoroney/.android/build-cache/a9e714af516d36ff77cc734733e2b87d7709ef57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/pre-dexed/debug/classes_4c83f68a636cb345ca1761c625c955d2a4e892b8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Thu Jun 08 10:06:28 PDT 2017
+base.0=/Users/laurencemoroney/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/laurencemoroney/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

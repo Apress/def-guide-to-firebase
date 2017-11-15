@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 201,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.android/build-cache/edd89cecd6181a4ac9530aa17b90b6105d246e78/output/res/values-mr/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 201,
+                        "endOffset": 486
+                    }
+                }
+            }
+        ]
+    }
+]

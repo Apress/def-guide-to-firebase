@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/storage/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/storage/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/storage/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/storage/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/5c4042ad341c78cb9a04711eadf037a4be146c76/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

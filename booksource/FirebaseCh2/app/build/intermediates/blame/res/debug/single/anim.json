@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/tw__accelerate_cubic.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/anim/tw__accelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/d73b6a44cefeb3e93f0d3aa53bd35e45ee0fc468/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/tw__slide_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/2ca30fc729ce46cf3c0bae20c7fddafa30c78f97/output/res/anim/tw__slide_out.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

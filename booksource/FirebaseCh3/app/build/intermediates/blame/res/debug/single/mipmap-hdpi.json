@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseCh3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseCh3/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseCh3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseCh3/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

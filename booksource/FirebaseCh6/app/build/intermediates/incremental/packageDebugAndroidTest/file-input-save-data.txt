@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Jun 29 09:03:33 PDT 2017
+2.base=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+5.file=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/res/resources-debug-androidTest.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/res/resources-debug-androidTest.ap_
+2.set=JAVA_RESOURCE
+4.base=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+count=6
+0.file=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex
+5.base=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/res/resources-debug-androidTest.ap_
+4.set=JAVA_RESOURCE
+1.file=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/junit/runner/smalllogo.gif
+1.set=JAVA_RESOURCE
+2.file=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/LICENSE-junit.txt
+0.base=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+3.file=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/res/resources-debug-androidTest.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+4.file=/Users/laurencemoroney/Desktop/Ch6TipCalc/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/junit/runner/logo.gif
+0.set=DEX

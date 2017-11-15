@@ -1,0 +1,425 @@
+[
+    {
+        "outputFile": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh7/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 109,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 109,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 107,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 107,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 122,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 122,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 105,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 105,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 108,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 108,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 85,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 85,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 103,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 103,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 119,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 119,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 75,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 921,
+                        "endColumn": 75,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 75,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 75,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 84,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 107,
+                    "endOffset": 1311
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 107,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1316,
+                    "endColumn": 108,
+                    "endOffset": 1420
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 108,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1425,
+                    "endColumn": 101,
+                    "endOffset": 1522
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1375,
+                        "endColumn": 101,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1527,
+                    "endColumn": 110,
+                    "endOffset": 1633
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1477,
+                        "endColumn": 110,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1638,
+                    "endColumn": 99,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endColumn": 99,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 107,
+                    "endOffset": 1841
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 107,
+                        "endOffset": 1791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1846,
+                    "endColumn": 128,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1796,
+                        "endColumn": 128,
+                        "endOffset": 1920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 97,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1925,
+                        "endColumn": 97,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2073,
+                    "endColumn": 210,
+                    "endOffset": 2279
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/a29da6f336af9f88c94841734518aaaa/res/values-ur/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 210,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2284,
+                    "endColumn": 79,
+                    "endOffset": 2359
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2023,
+                        "endColumn": 79,
+                        "endOffset": 2098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2364,
+                    "endColumn": 102,
+                    "endOffset": 2462
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3f57213011b2d246490e6a9b7b2099ed/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2103,
+                        "endColumn": 102,
+                        "endOffset": 2201
+                    }
+                }
+            }
+        ]
+    }
+]

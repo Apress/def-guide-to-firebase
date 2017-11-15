@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh12/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.2.aar/53cedc3499e4ab1d6af28008ad8799c6/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 172,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 293
+                    }
+                }
+            }
+        ]
+    }
+]

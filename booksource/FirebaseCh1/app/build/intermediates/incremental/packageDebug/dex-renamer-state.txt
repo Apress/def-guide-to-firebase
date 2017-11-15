@@ -1,0 +1,7 @@
+#Tue May 02 12:22:38 PDT 2017
+base.0=/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e3da5033968dcec9839c3541d0979316bb02e62b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08f495ef45510171cd4b1e5f5f0e3f7a22b97837/classes.dex
+base.1=/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08f495ef45510171cd4b1e5f5f0e3f7a22b97837
+file.0=/Users/laurencemoroney/AndroidStudioProjects/FirebaseCh1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e3da5033968dcec9839c3541d0979316bb02e62b/classes.dex

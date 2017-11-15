@@ -1,0 +1,4 @@
+#Tue Jul 18 11:51:38 PDT 2017
+base.0=/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

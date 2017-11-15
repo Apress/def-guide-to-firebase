@@ -1,0 +1,7 @@
+#Mon Jun 12 08:56:35 PDT 2017
+base.0=/Users/laurencemoroney/Desktop/booksource/FirebaseCh4-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e299cec5474a5ae5b762ae4717d113b8615f380
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/laurencemoroney/Desktop/booksource/FirebaseCh4-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f408f7de506d1a2f7805f741fa84b72920c682a5/classes.dex
+base.1=/Users/laurencemoroney/Desktop/booksource/FirebaseCh4-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f408f7de506d1a2f7805f741fa84b72920c682a5
+file.0=/Users/laurencemoroney/Desktop/booksource/FirebaseCh4-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e299cec5474a5ae5b762ae4717d113b8615f380/classes.dex

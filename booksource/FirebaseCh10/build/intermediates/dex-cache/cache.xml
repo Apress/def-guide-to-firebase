@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/d09a0d697023b1e0632d4c430fa7fb559e8583ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e41a6929457a31efd7e650b5224c39d6579629c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/.android/build-cache/348c896ff850e5f1531aaec4541c40a72a2e942a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fda7dacb931c746bb118e7185e13c9901326963d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d23c236831655aa6e2a45ad238bbf8af7e70df2e">
+        <dex dex="/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_29174f7ebf061e55e925d4ff24dd602079c149d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a7aeb4a92924883e962c2a80f2900747ca1ffb98/classes.dex" />
+    </item>
+
+</items>

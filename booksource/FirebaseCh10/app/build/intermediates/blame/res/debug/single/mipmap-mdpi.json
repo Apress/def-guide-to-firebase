@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/laurencemoroney/Desktop/Chapter10/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/Chapter10/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/laurencemoroney/Desktop/Chapter10/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

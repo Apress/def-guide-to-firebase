@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/auth/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/764e1df867b3144ee27590c03b6a227d463ba86d/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh4-2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh4-2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh4-2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh4-2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/91b0079b5e142efd39d1c2be758b55e9d2e68122/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

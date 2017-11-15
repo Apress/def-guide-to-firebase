@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/laurencemoroney/.android/build-cache/21eb97014a73c8cdce31a7350a9c2d7a7e26be07/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Aug 15 15:14:12 PDT 2017
+base.0=/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_201e3dc4f0b2f9f6ff0e1052b11985bf97ae46c1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c99d28eb10d3bf3a519b8b86f3771931cc42d48e/classes.dex
+base.1=/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c99d28eb10d3bf3a519b8b86f3771931cc42d48e
+file.0=/Users/laurencemoroney/Desktop/booksource/friendlychat/FirebaseCh11/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_201e3dc4f0b2f9f6ff0e1052b11985bf97ae46c1/classes.dex

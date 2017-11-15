@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseCh14</string>
+    <string-array name="colorlist">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+    </string-array>
+</resources>

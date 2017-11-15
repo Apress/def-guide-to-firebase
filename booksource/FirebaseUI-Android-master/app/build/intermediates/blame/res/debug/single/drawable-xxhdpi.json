@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_googleg_color_144dp.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/res/drawable-xxhdpi/logo_googleg_color_144dp.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi/firebase_auth_120dp.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/res/drawable-xxhdpi/firebase_auth_120dp.png"
+    },
+    {
+        "merged": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi/anon_user_48dp.png",
+        "source": "/Users/laurencemoroney/Desktop/FirebaseUI-Android-master/app/src/main/res/drawable-xxhdpi/anon_user_48dp.png"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/laurencemoroney/Desktop/booksource/FirebaseCh2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 62,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 62,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 56,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/laurencemoroney/.android/build-cache/49b6ee1ef44fb4d08be85b92fea474f9fa3459b9/output/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 56,
+                        "endOffset": 236
+                    }
+                }
+            }
+        ]
+    }
+]

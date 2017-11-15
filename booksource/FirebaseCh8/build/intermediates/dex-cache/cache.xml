@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7bf5a9d1f6a1423b4f2d50739ee52167c49c075a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="82c78456ccad9d28993c44d7c2d6ce5c07e73f35">
+        <dex dex="/Users/laurencemoroney/Desktop/booksource/Chapter8DBTriggers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ddaa318e67bd0a36980a1dda910b2f74c9d8bb9/classes.dex" />
+    </item>
+
+</items>
